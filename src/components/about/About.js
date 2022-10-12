@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import ScrollOut from "scroll-out";
 import Typed from "typed.js";
 import { IoIosArrowForward } from "react-icons/io";
-import profile from "../../assets/profile.png";
 import resume from "./Resume.pdf";
 import "./about.css";
 
